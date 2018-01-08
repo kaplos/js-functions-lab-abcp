@@ -1,5 +1,7 @@
 // write your code below
-function happyholidays(string){
+function happyHolidays(string){
+if (happyholidays===string)
+return "Happy holidays"
   
 }
 
