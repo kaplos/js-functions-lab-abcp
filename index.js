@@ -1,4 +1,4 @@
 // write your code below
-func ("happy holidays!")
+func ("Happy holidays!")
 print }
 
