@@ -8,6 +8,6 @@ function happyHolidaysTo(you){
 function happyHolidaysTo(holiday,name){
   return "Happy holidays, you!"
 }
-function HappyHolidaysTo(holiday, name){
-  return "Happy ${holiday},${name}!":
+function happyHolidaysTo(chanuka, name){
+  return "Happy ${holiday},${name}!";
 }
