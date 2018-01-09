@@ -6,7 +6,7 @@ function happyHolidaysTo(name){
   return "Happy holidays, ${name}!";
 }
 function happyHolidaysTo(holiday,name){
-  return "Happy holidays, you!";
+  return "Happy ${holidays}, ${name}!";
 }
 function happyHolidaysTo(chanuka, name){
   return "Happy ${holiday},${name}!";
