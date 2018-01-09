@@ -1,7 +1,11 @@
 // write your code below
-function happyHolidays(string){
-if (happyholidays===string)
-return "Happy holidays"
-  
+function happyHolidays(){
+return ("Happy holidays!");
+}
+function happyHolidaysTo(name){
+  return "Happy holidays, ${name}!";
+}
+function happyHolidaysTo(holiday,name){
+  return "Happy ${holidays}, ${name}!"
 }
 
